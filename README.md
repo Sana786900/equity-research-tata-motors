@@ -57,4 +57,3 @@ Personal research for learning and portfolio purposes only. Not investment advic
 unless stated; prices as of August 2026.
 
 ---
-**Vivek Yadav** · MBA (Finance & Digital Transformation) · [GitHub profile](https://github.com/vivek-yadav-02)
